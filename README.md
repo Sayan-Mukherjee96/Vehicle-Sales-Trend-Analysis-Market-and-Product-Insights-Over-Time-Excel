@@ -38,8 +38,10 @@ Data Visualization
 7. Pricing alone does not drive demand, as several lower-priced models outperform premium models in sales volume.
 
 📊Dashboard:
-<img width="1872" height="737" alt="Screenshot 2026-03-21 131130" src="https://github.com/user-attachments/assets/27f8ec56-0c3b-42a2-803d-8b884a70e1cb" />
-<img width="1871" height="741" alt="Screenshot 2026-03-21 130917" src="https://github.com/user-attachments/assets/c2fee5d1-a76b-436d-bcbf-9fcc6e63c5e9" />
+<img width="1871" height="736" alt="Screenshot 2026-03-22 025736" src="https://github.com/user-attachments/assets/2b32d18c-c1b7-4840-91dd-57374134fce8" />
+
+<img width="1872" height="744" alt="Screenshot 2026-03-22 025901" src="https://github.com/user-attachments/assets/950d1204-6429-43be-9645-fb502aba8305" />
+
 
 📈 Results:
 The United States leads in both revenue and units sold, with peak performance in 2019 followed by fluctuations in subsequent years. Mid-sized engines account for the highest sales, while electric and hybrid vehicles show increasing presence. Additionally, lower-priced models tend to achieve higher sales volumes compared to premium models.
